@@ -1,0 +1,4 @@
+git-trial
+=========
+
+learning git
